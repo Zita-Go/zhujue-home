@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.jpg" alt="主角 · Zhujue —— 先定角色，再写内容" width="100%" />
+  <img src="assets/hero.png" alt="主角 · Zhujue —— 先定角色，再写内容" width="100%" />
 </p>
 
 <h1 align="center">主角 · Zhujue</h1>
